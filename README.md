@@ -7,7 +7,8 @@ Simple app that creates sticky notes of different colours
 - JavaScript
 
 ### Hosted on Netlify
-[Note-Taking-App](https://thenotetakingapp.netlify.app/)
+<a href="https://thenotetakingapp.netlify.app/" target="_blank">Note-Taking-App</a>  
+
   
 ### Features
 - Add sticky notes of different colours
