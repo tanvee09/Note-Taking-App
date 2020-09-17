@@ -176,3 +176,12 @@ form select, form button {
     color: #60aa74;
     width: 40%;
 }
+
+#extra {
+    color: rgb(92, 92, 92);
+    position: fixed;
+    right: 8px;
+    bottom: 0;
+    text-decoration: none;
+    z-index: 0;
+}
